@@ -29,6 +29,7 @@ subprojects {
     }
 
     dependencies {
+        implementation "com.beust:jcommander:1.78"
         testImplementation 'com.github.hyperskill:hs-test:release-SNAPSHOT'
     }
 
